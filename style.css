@@ -1,0 +1,69 @@
+
+body {
+    margin:0;
+}
+
+
+#head-menu {
+    width:100%;
+    min-height: 50px;
+    height: fit-content;
+    background-color:#7FBA00;
+    position: sticky;
+    z-index: 5;
+    top: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.head-menu-button {
+    position: relative;
+    border:none;
+    background-color: transparent;
+    height:fit-content
+
+}
+
+.head-menu-button >h3{
+    margin: 5px;
+    color: white;
+}
+
+.team {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.team-member {
+    max-width: 400px;
+    min-width: 100px;
+    /* display: flex; */
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px;
+}
+
+.team-member img {
+    width: 100%;
+}
+.team-member h3 {
+    margin: 5PX;
+    text-align: center;
+}
+
+.team-member p {
+    margin: 5PX;
+    text-align: center;
+}
+
+.about-us {
+    position: relative;
+}
+#home {
+    /* width: 100px; */
+}

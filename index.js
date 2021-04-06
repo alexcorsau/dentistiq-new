@@ -1,0 +1,1 @@
+console.log("Dentistiq - New and Improved");
