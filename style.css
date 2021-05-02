@@ -1,4 +1,4 @@
-
+/* 
 body {
     margin:0;
 }
@@ -41,7 +41,6 @@ body {
 .team-member {
     max-width: 400px;
     min-width: 100px;
-    /* display: flex; */
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: center;
@@ -64,6 +63,4 @@ body {
 .about-us {
     position: relative;
 }
-#home {
-    /* width: 100px; */
-}
+ */
