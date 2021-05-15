@@ -1,9 +1,8 @@
 export function About(){
     return(
         <div className="about">
-            <h2>To Do App Info</h2>
-            <p>This app will store your task on server</p>
-            <p>Feel free to add as many as you like on the home page</p>
+            <p>This is the "Despre noi" page</p>
+            <p>Let's get to know each other before we can work together</p>
         </div>
     )
 }

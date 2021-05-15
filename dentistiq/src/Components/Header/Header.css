@@ -1,0 +1,33 @@
+.header-menu {
+    background-color: #7FBA00;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.header-logo {
+    margin: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.header-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.header-buttons > *{
+    color: floralwhite;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.selected-link  {
+    color: floralwhite;
+    font-weight: 800;
+}
